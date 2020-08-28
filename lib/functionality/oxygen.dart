@@ -2,7 +2,7 @@ import 'package:community_material_icon/community_material_icon.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter_icons/flutter_icons.dart';
-import 'package:rpms1/costomicon_icons.dart';
+import 'package:rpms1/bluetooth/costomicon_icons.dart';
 
 class Oxygen_Percentage extends StatelessWidget {
   @override

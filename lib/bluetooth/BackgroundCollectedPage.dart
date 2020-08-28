@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
-import './BackgroundCollectingTask.dart';
-import './helpers/LineChart.dart';
-import './helpers/PaintStyle.dart';
+import 'BackgroundCollectingTask.dart';
+import '../helpers/LineChart.dart';
+import '../helpers/PaintStyle.dart';
 
 class BackgroundCollectedPage extends StatelessWidget {
   @override

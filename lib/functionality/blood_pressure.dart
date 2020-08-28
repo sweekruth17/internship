@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter_icons/flutter_icons.dart';
-import 'package:rpms1/costomicon_icons.dart';
+import 'package:rpms1/bluetooth/costomicon_icons.dart';
 
 class Blood_Pressure extends StatelessWidget {
   @override
